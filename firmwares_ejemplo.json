@@ -1,0 +1,26 @@
+[
+  {
+    "nombre": "ED1 - Programa inicial",
+    "dispositivo": "ED1 Original",
+    "version": "1.0",
+    "fecha": "2026-06-05",
+    "descripcion": "Firmware de ejemplo para ED1.",
+    "archivo": "https://raw.githubusercontent.com/ardutaller/ardutaller-firmwares/main/ed1/programa_inicial.bin"
+  },
+  {
+    "nombre": "ED1 - Control App Ardutaller",
+    "dispositivo": "ED1 Original",
+    "version": "1.0",
+    "fecha": "2026-06-05",
+    "descripcion": "Firmware de control desde app.",
+    "archivo": "https://raw.githubusercontent.com/ardutaller/ardutaller-firmwares/main/ed1/control_app.bin"
+  },
+  {
+    "nombre": "CoCube - Demo",
+    "dispositivo": "CoCube ESP32",
+    "version": "1.0",
+    "fecha": "2026-06-05",
+    "descripcion": "Firmware de demostración para CoCube.",
+    "archivo": "https://raw.githubusercontent.com/ardutaller/ardutaller-firmwares/main/cocube/demo.bin"
+  }
+]
