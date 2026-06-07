@@ -1,4 +1,30 @@
+//MIRAR SI HAY QUE PONER EN EL JSON EL TIPO DE PLACA ESP32  QUE ES 
+
 [
+  {
+    "nombre": "Programa 1",
+    "dispositivo": "ED1 Original",
+    "version": "1.0",
+    "fecha": "2026-06-05",
+    "descripcion": "Firmware de ejemplo para ED1.",
+    "archivo": "https://raw.githubusercontent.com/ardutaller/ardutaller-firmwares/main/ed1/programa_inicial.bin"
+  },
+  {
+    "nombre": "Programa 2",
+    "dispositivo": "ED1 Original",
+    "version": "1.0",
+    "fecha": "2026-06-05",
+    "descripcion": "Firmware de ejemplo para ED1.",
+    "archivo": "https://raw.githubusercontent.com/ardutaller/ardutaller-firmwares/main/ed1/programa_inicial.bin"
+  },
+ {
+    "nombre": "Programa 3",
+    "dispositivo": "ED1 Original",
+    "version": "1.0",
+    "fecha": "2026-06-05",
+    "descripcion": "Firmware de ejemplo para ED1.",
+    "archivo": "https://raw.githubusercontent.com/ardutaller/ardutaller-firmwares/main/ed1/programa_inicial.bin"
+  },
   {
     "nombre": "ED1 - Programa inicial",
     "dispositivo": "ED1 Original",
