@@ -1,6 +1,6 @@
 [
   {
-  "name": "Programa Cocube Sigue la ruta",
+  "name": "Cocube Sigue la ruta",
   "version": "1.0.0",
   "builds": [
     {
@@ -11,14 +11,18 @@
     }
   ]
 },
-  {
-    "nombre": "Programa 2",
-    "dispositivo": "ED1 Original",
-    "version": "1.0",
-    "fecha": "2026-06-05",
-    "descripcion": "Firmware de ejemplo para ED1.",
-    "archivo": "https://raw.githubusercontent.com/ardutaller/ardutaller-firmwares/main/ed1/programa_inicial.bin"
-  },
+ {
+  "name": "Cocube Programa Inicial fábrica",
+  "version": "1.0.0",
+  "builds": [
+    {
+      "chipFamily": "ESP32",
+      "parts": [
+        { "path": "firmware.bin", "offset": 0}
+      ]
+    }
+  ]
+},
  {
     "nombre": "Programa 3",
     "dispositivo": "ED1 Original",
