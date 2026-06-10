@@ -6,7 +6,7 @@
     {
       "chipFamily": "ESP32",
       "parts": [
-        { "path": "cocube_sigue_ruta.bin", "offset": 0}
+        { "path": "https://raw.githubusercontent.com/ardutaller/ardutaller-firmwares/main/ed1/cocube_sigue_ruta.bin", "offset": 0}
       ]
     }
   ]
@@ -18,7 +18,7 @@
     {
       "chipFamily": "ESP32",
       "parts": [
-        { "path": "firmware.bin", "offset": 0}
+        { "path": "https://raw.githubusercontent.com/ardutaller/ardutaller-firmwares/main/ed1/firmware.bin", "offset": 0}
       ]
     }
   ]
