@@ -1,0 +1,154 @@
+[
+  {
+    "category": "CoCube",
+    "name": "CoCube Ardutaller",
+    "version": "1.0",
+    "device": "CoCube",
+    "description": "Firmware original Ardutaller para CoCube",
+    "image": "",
+    "builds": [
+      {
+        "chipFamily": "ESP32",
+        "parts": [
+          {
+            "path": "https://raw.githubusercontent.com/ardutaller/ardutaller-firmwares/main/COCUBE-cocube_ardutaller.bin",
+            "offset": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "CoCube",
+    "name": "CoCube Sigue la Ruta",
+    "version": "1.0",
+    "device": "CoCube",
+    "description": "Proyecto Sigue la Ruta",
+    "image": "",
+    "builds": [
+      {
+        "chipFamily": "ESP32",
+        "parts": [
+          {
+            "path": "https://raw.githubusercontent.com/ardutaller/ardutaller-firmwares/main/COCUBE-cocube_sigue_ruta.bin",
+            "offset": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "ED1",
+    "name": "ED1 VM Citilab",
+    "version": "30052026",
+    "device": "ED1",
+    "description": "Máquina virtual Citilab",
+    "image": "",
+    "builds": [
+      {
+        "chipFamily": "ESP32",
+        "parts": [
+          {
+            "path": "https://raw.githubusercontent.com/ardutaller/ardutaller-firmwares/main/ED1-vm_citilab-ed1%2030052026.bin",
+            "offset": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "ED1",
+    "name": "ED1 Test",
+    "version": "300526",
+    "device": "ED1",
+    "description": "Versión de pruebas",
+    "image": "",
+    "builds": [
+      {
+        "chipFamily": "ESP32",
+        "parts": [
+          {
+            "path": "https://raw.githubusercontent.com/ardutaller/ardutaller-firmwares/main/ED1_Test_300526.bin",
+            "offset": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "ED1",
+    "name": "ED1 Ardutaller 2025",
+    "version": "2025",
+    "device": "ED1",
+    "description": "Firmware Ardutaller",
+    "image": "",
+    "builds": [
+      {
+        "chipFamily": "ESP32",
+        "parts": [
+          {
+            "path": "https://raw.githubusercontent.com/ardutaller/ardutaller-firmwares/main/ED1_ardutaller_2025.bin",
+            "offset": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "LILYGO",
+    "name": "LILYGO CPCESP",
+    "version": "0.85",
+    "device": "LILYGO",
+    "description": "Firmware CPCESP",
+    "image": "",
+    "builds": [
+      {
+        "chipFamily": "ESP32",
+        "parts": [
+          {
+            "path": "https://raw.githubusercontent.com/ardutaller/ardutaller-firmwares/main/LILYGO-CPCESP.0.85.bin",
+            "offset": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "LILYGO",
+    "name": "LILYGO ESpectrum",
+    "version": "1.4.15",
+    "device": "LILYGO",
+    "description": "ESpectrum para LILYGO",
+    "image": "",
+    "builds": [
+      {
+        "chipFamily": "ESP32",
+        "parts": [
+          {
+            "path": "https://raw.githubusercontent.com/ardutaller/ardutaller-firmwares/main/LILYGO-ESPectrum.1.4.15.bin",
+            "offset": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "STEAMakers AI",
+    "name": "STEAM AI Firmware",
+    "version": "1.0",
+    "device": "STEAMakers AI",
+    "description": "Firmware IA para placas STEAMakers",
+    "image": "",
+    "builds": [
+      {
+        "chipFamily": "ESP32-S3",
+        "parts": [
+          {
+            "path": "https://raw.githubusercontent.com/ardutaller/ardutaller-firmwares/main/STEAM%20AI%20firmware.bin",
+            "offset": 0
+          }
+        ]
+      }
+    ]
+  }
+]
